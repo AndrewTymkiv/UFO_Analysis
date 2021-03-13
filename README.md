@@ -5,7 +5,7 @@ The purpose of this analysis is to use recorded data of UFO sightings and report
 
 ---
 ## Results
-
+!['webpage'](https://github.com/AndrewTymkiv/UFO_Analysis/blob/main/webpage.PNG)
 
 As seen in the image of the webpage, below a few brief introductory paragraphs, there is a table of recorded UFO sightings in the United States, displaying multiple pieces of information about each encounter including the date of the sighting, the locations, the shape of the unidentified object, the duration of the sighting, and then any additional comments.
 
